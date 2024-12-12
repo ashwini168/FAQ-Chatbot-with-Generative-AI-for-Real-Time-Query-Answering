@@ -94,7 +94,9 @@ The chatbot is particularly useful in domains where users seek quick, precise an
 
 ---
 ## Architecture Diagram
-![Architecture Diagram](Architecture (2).jpeg)
+
+![Architecture Diagram](./Architecture (2).jpeg)
+
 
 This diagram illustrates the overall architecture of the FAQ Chatbot, showcasing the flow of data from user queries to final responses via semantic search and generative AI models.
 
