@@ -11,7 +11,7 @@ Welcome to the FAQ Chatbot repository! This project is designed to provide accur
 - [Installation](#installation)
 - [Usage](#usage)
 - [System Workflow](#system-workflow)
-- [Project Structure](#project-structure)
+- [Architecture Diagram](#architecture-diagram)
 - [Future Enhancements](#future-enhancements)
 
 ---
@@ -43,6 +43,8 @@ The chatbot is particularly useful in domains where users seek quick, precise an
 
 ---
 
+## Project
+  
 ## Installation
 
 1. **Clone the Repository**:
@@ -91,7 +93,12 @@ The chatbot is particularly useful in domains where users seek quick, precise an
 5. **Output**: The chatbot displays the response in the UI.
 
 ---
+## Architecture Diagram
+![Architecture Diagram]("C:\Users\HP\Downloads\WhatsApp Image 2024-12-10 at 10.24.31 PM.jpeg".png)
 
+This diagram illustrates the overall architecture of the FAQ Chatbot, showcasing the flow of data from user queries to final responses via semantic search and generative AI models.
+
+---
 
 ## Future Enhancements
 - **Advanced Context Handling**: Integrate transformers like BERT or GPT-4 for deeper context understanding.
