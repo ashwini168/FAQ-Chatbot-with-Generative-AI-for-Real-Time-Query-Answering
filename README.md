@@ -1,4 +1,4 @@
-##FAQ-Chatbot-with-Generative-AI-for-Real-Time-Query-Answering
+#FAQ-Chatbot-with-Generative-AI-for-Real-Time-Query-Answering
 
 Welcome to the FAQ Chatbot repository! This project is designed to provide accurate and context-aware answers to frequently asked questions using advanced generative AI techniques and semantic search capabilities. It offers an intuitive and interactive user experience for efficiently retrieving relevant information.
 
