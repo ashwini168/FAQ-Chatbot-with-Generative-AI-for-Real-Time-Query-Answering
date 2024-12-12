@@ -1,0 +1,14 @@
+# Install required libraries
+!pip install pandas sentence-transformers pyngrok faiss-cpu streamlit
+
+
+!pip install streamlit pyngrok
+
+#your ngrok token
+!ngrok config add-authtoken 'YOUR_TOKEN'
+
+#to kill the session
+!ps aux | grep ngrok
+
+!pkill ngrok
+
